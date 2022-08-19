@@ -1,0 +1,8 @@
+{
+  "network/interfaces": {
+      "title": "Typed section",
+      "view": "vuci-app-typed-section",
+      "files": ["/etc/config/network"],
+      "index": 20
+  }
+}
